@@ -21,6 +21,9 @@ HOST-SUFFIX,mius.uk,PROXY
 
 ##### F #####
 
+# 放映厅
+HOST-SUFFIX,9191001.xyz,PROXY
+
 # 飞跃彩虹
 HOST-SUFFIX,7777777.buzz,PROXY
 HOST-SUFFIX,581658.best,PROXY
