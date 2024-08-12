@@ -4,10 +4,6 @@
 
 ##### A #####
 
-# ACA & MisakaF
-HOST-SUFFIX,emby.aca.best,PROXY
-HOST-SUFFIX,porn.aca.best,PROXY
-
 ##### B #####
 
 ##### C #####
@@ -40,18 +36,6 @@ HOST-SUFFIX,i109.com,PROXY
 
 ##### J #####
 
-# jmsooo
-HOST-SUFFIX,agahk1.jmsooo.com,PROXY
-HOST-SUFFIX,agasg1.jmsooo.com,PROXY
-HOST-SUFFIX,agajp1.jmsooo.com,PROXY
-HOST-SUFFIX,aws.jmsooo.com,PROXY
-HOST-SUFFIX,ntt1.jmsooo.com,PROXY
-HOST-SUFFIX,hinet.jmsooo.com,PROXY
-HOST-SUFFIX,cf1.jmsooo.com,PROXY
-
-# 江湖
-HOST-SUFFIX,reddust.link,PROXY
-
 ##### K #####
 
 ##### L #####
@@ -63,15 +47,7 @@ HOST-SUFFIX,lyrebirdemby.com,PROXY
 # Misty 
 HOST-SUFFIX,misty.cx,PROXY
 
-# MisakaF
-HOST-SUFFIX,misakaf.org,PROXY
-HOST-SUFFIX,cloudfront.net,PROXY
-
-
 ##### N #####
-# NM
-HOST-SUFFIX,hovervan.org,PROXY
-
 # NYA
 HOST-SUFFIX,bangumi.ca,PROXY
 
@@ -83,13 +59,6 @@ HOST-SUFFIX,bangumi.ca,PROXY
 HOST-SUFFIX,pilipiliultra.top,PROXY
 HOST-SUFFIX,pilipiliultra.com,PROXY
 
-# pornemby
-HOST-SUFFIX,pornemby.club,PROXY
-HOST-SUFFIX,ii00.cc,PROXY
-
-# polo
-HOST-SUFFIX,poloemby.xyz,PROXY
-HOST-SUFFIX,pololine.ml,PROXY
 
 # 普拉斯影业
 HOST-SUFFIX,emby.plusmedia.site,PROXY
