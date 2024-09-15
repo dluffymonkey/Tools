@@ -1,0 +1,113 @@
+# 来源： https://github.com/MisakaFxxk/MisakaF_Subconverter/blob/main/Sub/Emby.list
+# 来源： https://github.com/Repcz/Tool/blob/X/Surge/Rules/Emby.list
+# 最后更新时间： 2024-05-29 10:28
+
+##### A #####
+
+##### B #####
+
+##### C #####
+
+##### D #####
+# 大V影院
+HOST-SUFFIX,viclub.top,PROXY
+
+##### E #####
+
+# Emby餐厅
+HOST-SUFFIX,mius.uk,PROXY
+
+##### F #####
+
+# 放映厅
+HOST-SUFFIX,9191001.xyz,PROXY
+
+# 飞跃彩虹
+HOST-SUFFIX,7777777.buzz,PROXY
+HOST-SUFFIX,581658.best,PROXY
+
+##### G #####
+
+##### H #####
+# Heisi
+HOST-SUFFIX,i109.com,PROXY
+
+##### I #####
+
+##### J #####
+
+##### K #####
+
+##### L #####
+# Lyrebird
+HOST-SUFFIX,lyrebirdemby.com,PROXY
+
+##### M #####
+# 叔服
+HOST-SUFFIX,mcjoker.xyz,PROXY
+
+# Misty 
+HOST-SUFFIX,misty.cx,PROXY
+
+##### N #####
+# NYA
+HOST-SUFFIX,bangumi.ca,PROXY
+
+##### O #####
+
+##### P #####
+
+# PiliPili 
+HOST-SUFFIX,pilipiliultra.top,PROXY
+HOST-SUFFIX,pilipiliultra.com,PROXY
+
+
+# 普拉斯影业
+HOST-SUFFIX,emby.plusmedia.site,PROXY
+HOST-SUFFIX,emby-cf.plusmedia.site,PROXY
+HOST-SUFFIX,emby-sg.plusmedia.site,PROXY
+
+# Pual
+HOST-SUFFIX,imetyou.top,PROXY
+
+##### Q #####
+
+##### R #####
+
+##### S #####
+
+##### T #####
+
+# TreeDiagram
+HOST-SUFFIX,123456.al,PROXY
+
+# Temby
+HOST-SUFFIX,285286.xyz,PROXY
+
+##### U #####
+
+##### V #####
+
+##### W #####
+
+##### X #####
+# 星光
+HOST-SUFFIX,emby.eu.org,PROXY
+
+##### Y #####
+# yomo
+HOST-SUFFIX,yomo.lol,Direct
+
+##### Z #####
+# zdz
+HOST-SUFFIX,emby.wtf,PROXY
+HOST-SUFFIX,pub1.emby.wtf,PROXY
+HOST-SUFFIX,pub2.emby.wtf,PROXY
+HOST-SUFFIX,pub3.emby.wtf,PROXY
+
+# zhipianren
+HOST-SUFFIX,embyplus.org,PROXY
+
+##### 0-9 #####
+# 1##1
+HOST-SUFFIX,xmsl.org,PROXY
