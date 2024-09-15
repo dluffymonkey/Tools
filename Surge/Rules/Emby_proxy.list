@@ -4,6 +4,8 @@
 
 ##### A #####
 
+# ACA & MisakaF
+
 ##### B #####
 
 ##### C #####
@@ -13,22 +15,20 @@
 ##### E #####
 
 # Emby餐厅
-HOST-SUFFIX,mius.uk,PROXY
+DOMAIN-SUFFIX,mius.uk
 
 ##### F #####
 
 # 放映厅
-HOST-SUFFIX,9191001.xyz,PROXY
+DOMAIN-SUFFIX,9191001.xyz
 
 # 飞跃彩虹
-HOST-SUFFIX,7777777.buzz,PROXY
-HOST-SUFFIX,581658.best,PROXY
+DOMAIN-SUFFIX,7777777.buzz
+DOMAIN-SUFFIX,581658.best
 
 ##### G #####
 
 ##### H #####
-# Heisi
-HOST-SUFFIX,i109.com,PROXY
 
 ##### I #####
 
@@ -37,36 +37,34 @@ HOST-SUFFIX,i109.com,PROXY
 ##### K #####
 
 ##### L #####
-# Lyrebird
-HOST-SUFFIX,lyrebirdemby.com,PROXY
 
 ##### M #####
+
 # 叔服
-HOST-SUFFIX,mcjoker.xyz,PROXY
+DOMAIN-SUFFIX,mcjoker.xyz
 
 # Misty 
-HOST-SUFFIX,misty.cx,PROXY
+DOMAIN-SUFFIX,misty.cx
 
 ##### N #####
 # NYA
-HOST-SUFFIX,bangumi.ca,PROXY
+DOMAIN-SUFFIX,bangumi.ca
 
 ##### O #####
 
 ##### P #####
 
 # PiliPili 
-HOST-SUFFIX,pilipiliultra.top,PROXY
-HOST-SUFFIX,pilipiliultra.com,PROXY
-
+DOMAIN-SUFFIX,pilipiliultra.top
+DOMAIN-SUFFIX,pilipiliultra.com
 
 # 普拉斯影业
-HOST-SUFFIX,emby.plusmedia.site,PROXY
-HOST-SUFFIX,emby-cf.plusmedia.site,PROXY
-HOST-SUFFIX,emby-sg.plusmedia.site,PROXY
+DOMAIN-SUFFIX,emby.plusmedia.site
+DOMAIN-SUFFIX,emby-cf.plusmedia.site
+DOMAIN-SUFFIX,emby-sg.plusmedia.site
 
 # Pual
-HOST-SUFFIX,imetyou.top,PROXY
+DOMAIN-SUFFIX,imetyou.top
 
 ##### Q #####
 
@@ -77,10 +75,10 @@ HOST-SUFFIX,imetyou.top,PROXY
 ##### T #####
 
 # TreeDiagram
-HOST-SUFFIX,123456.al,PROXY
+DOMAIN-SUFFIX,123456.al
 
 # Temby
-HOST-SUFFIX,285286.xyz,PROXY
+DOMAIN-SUFFIX,285286.xyz
 
 ##### U #####
 
@@ -90,20 +88,18 @@ HOST-SUFFIX,285286.xyz,PROXY
 
 ##### X #####
 # 星光
-HOST-SUFFIX,emby.eu.org,PROXY
-
-##### Y #####
+DOMAIN-SUFFIX,emby.eu.org
 
 ##### Z #####
 # zdz
-HOST-SUFFIX,emby.wtf,PROXY
-HOST-SUFFIX,pub1.emby.wtf,PROXY
-HOST-SUFFIX,pub2.emby.wtf,PROXY
-HOST-SUFFIX,pub3.emby.wtf,PROXY
+DOMAIN-SUFFIX,emby.wtf
+DOMAIN-SUFFIX,pub1.emby.wtf
+DOMAIN-SUFFIX,pub2.emby.wtf
+DOMAIN-SUFFIX,pub3.emby.wtf
 
 # zhipianren
-HOST-SUFFIX,embyplus.org,PROXY
+DOMAIN-SUFFIX,embyplus.org
 
 ##### 0-9 #####
 # 1##1
-HOST-SUFFIX,xmsl.org,PROXY
+DOMAIN-SUFFIX,xmsl.org
