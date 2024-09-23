@@ -3,6 +3,8 @@
 # 最后更新时间： 2024-05-29 10:28
 
 ##### A #####
+# AWA
+HOST-SUFFIX,811861.xyz,Direct
 
 ##### B #####
 
@@ -14,14 +16,7 @@ HOST-SUFFIX,coemn.com,PROXY
 
 ##### E #####
 
-# Emby餐厅
-HOST-SUFFIX,mius.uk,PROXY
-
 ##### F #####
-
-# 放映厅
-HOST-SUFFIX,9191001.xyz,PROXY
-
 # 飞跃彩虹
 HOST-SUFFIX,7777777.buzz,PROXY
 HOST-SUFFIX,581658.best,PROXY
@@ -37,6 +32,8 @@ HOST-SUFFIX,581658.best,PROXY
 ##### K #####
 
 ##### L #####
+# Lyrebird
+HOST-SUFFIX,lyrebirdemby.com,Direct
 
 ##### M #####
 # 叔服
@@ -45,12 +42,7 @@ HOST-SUFFIX,mcjoker.xyz,PROXY
 # 见手青
 HOST-SUFFIX,mooguu.top,PROXY
 
-# Misty 
-HOST-SUFFIX,misty.cx,PROXY
-
 ##### N #####
-# NYA
-HOST-SUFFIX,bangumi.ca,PROXY
 
 ##### O #####
 
@@ -60,15 +52,6 @@ HOST-SUFFIX,bangumi.ca,PROXY
 HOST-SUFFIX,pilipiliultra.top,PROXY
 HOST-SUFFIX,pilipiliultra.com,PROXY
 
-
-# 普拉斯影业
-HOST-SUFFIX,emby.plusmedia.site,PROXY
-HOST-SUFFIX,emby-cf.plusmedia.site,PROXY
-HOST-SUFFIX,emby-sg.plusmedia.site,PROXY
-
-# Pual
-HOST-SUFFIX,imetyou.top,PROXY
-
 ##### Q #####
 
 ##### R #####
@@ -77,34 +60,16 @@ HOST-SUFFIX,imetyou.top,PROXY
 
 ##### T #####
 
-# TreeDiagram
-HOST-SUFFIX,123456.al,PROXY
-
-# Temby
-HOST-SUFFIX,285286.xyz,PROXY
-
 ##### U #####
 
 ##### V #####
+# 大V影院
+HOST-SUFFIX,viclub.top,Direct
 
 ##### W #####
 
 ##### X #####
-# 星光
-HOST-SUFFIX,emby.eu.org,PROXY
 
 ##### Y #####
 
 ##### Z #####
-# zdz
-HOST-SUFFIX,emby.wtf,PROXY
-HOST-SUFFIX,pub1.emby.wtf,PROXY
-HOST-SUFFIX,pub2.emby.wtf,PROXY
-HOST-SUFFIX,pub3.emby.wtf,PROXY
-
-# zhipianren
-HOST-SUFFIX,embyplus.org,PROXY
-
-##### 0-9 #####
-# 1##1
-HOST-SUFFIX,xmsl.org,PROXY
